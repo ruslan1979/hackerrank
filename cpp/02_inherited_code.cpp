@@ -6,6 +6,8 @@ using namespace std;
 /*
 Developer:     Ruslan Arifullin
 Date:          APR 29 2018
+
+DIFFICULTY:    Medium
                
 PROBLEM:       You inherited a piece of code that performs username validation for your company's 
                website. The existing function works reasonably well, but it throws an exception 
