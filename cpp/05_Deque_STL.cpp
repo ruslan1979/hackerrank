@@ -4,7 +4,7 @@
 /*
 Developer:     noorvir_aulakh
 Algor Impl:    noorvir_aulakh (https://www.hackerrank.com/noorvir_aulakh?hr_r=1)
-Date:          MAY 1 2018
+Date:          MAY 11 2018
 
 DIFFICULTY:    Medium
                
