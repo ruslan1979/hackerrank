@@ -31,8 +31,6 @@ OUTPUT:        500
 
 using namespace std;
 
-using namespace std;
-
 class HotelRoom {
 public:
     HotelRoom(int bedrooms, int bathrooms) 
